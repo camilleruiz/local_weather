@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'abc';
+  src: local('Segoeui'),
+       url('../fonts/segoeui.ttf') format("truetype");
+}
+
+body {
+	background-color: #3E4453;
+}
+
+#navbar {
+	background-color: #FFFFFF;
+}
+
+a {
+	color:  black;
+}
+
+#info-box {
+	border-color: #FFFFFF;
+	padding: 10px;
+	color: #FFFFFF;
+}
